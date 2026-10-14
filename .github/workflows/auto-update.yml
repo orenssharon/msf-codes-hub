@@ -1,0 +1,30 @@
+name: Auto-Update MSF Codes
+
+on:
+  schedule:
+    # ירוץ אוטומטית כל 6 שעות
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # מאפשר לך גם ללחוץ ידנית בגיטהאב מתי שתרצה
+
+jobs:
+  update-codes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run update script
+        run: python update_codes.py
+
+      - name: Commit and push if changes detected
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-update MSF codes vault via GitHub Actions"
+          branch: main
