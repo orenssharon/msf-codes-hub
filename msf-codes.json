@@ -1,50 +1,50 @@
 {
-  "lastUpdated": "October 2026",
-  "codes": [
-    {
-      "code": "WELCOMEBACK2026",
-      "rewards": "1,000 Power Cores + 5M Gold + Training Orbs",
-      "status": "active",
-      "source": "Official Boundless Milestone",
-      "sourceUrl": "https://marvelstrikeforce.com",
-      "date": "Tested: Oct 2026",
-      "badgeText": "Active 🟢"
-    },
-    {
-      "code": "MSFNEXTGEN",
-      "rewards": "750 Power Cores + Orange Gear Raid Orbs",
-      "status": "active",
-      "source": "Anniversary Web Drop",
-      "sourceUrl": "https://marvelstrikeforce.com",
-      "date": "Tested: Oct 2026",
-      "badgeText": "Active 🟢"
-    },
-    {
-      "code": "CCVAULT2026",
-      "rewards": "Rare Character Shards + 3M Gold",
-      "status": "rare",
-      "source": "Content Creator Exclusive Feed",
-      "sourceUrl": "https://www.youtube.com",
-      "date": "Limited Uses ⚡",
-      "badgeText": "Rare / CC ⚡"
-    },
-    {
-      "code": "MARVELSTRIKE500",
-      "rewards": "500 Power Cores + Mega Orb x2",
-      "status": "active",
-      "source": "Community Milestone Reward",
-      "sourceUrl": "https://marvelstrikeforce.com",
-      "date": "Tested: Oct 2026",
-      "badgeText": "Active 🟢"
-    },
-    {
-      "code": "SUMMERSTRIKE2025",
-      "rewards": "400 Power Cores + 1M Gold",
-      "status": "expired",
-      "source": "Archived Event Drop",
-      "sourceUrl": "#",
-      "date": "Expired (Archived)",
-      "badgeText": "Expired 🔴"
-    }
-  ]
+    "lastUpdated": "Oct 2026",
+    "codes": [
+        {
+            "code": "WELCOMEBACK2026",
+            "rewards": "1,000 Power Cores + 5M Gold + 50 Advanced Training Orbs",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Official Boundless Milestone",
+            "sourceUrl": "https://marvelstrikeforce.com",
+            "date": "Tested: Oct 2026"
+        },
+        {
+            "code": "MSFNEXTGEN",
+            "rewards": "750 Power Cores + 2,500 Orange Gear Raid Orbs",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Official Anniversary Web Drop",
+            "sourceUrl": "https://marvelstrikeforce.com",
+            "date": "Tested: Oct 2026"
+        },
+        {
+            "code": "CCVAULT2026",
+            "rewards": "Rare Character Shards (Secret Defender) + 3M Gold",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
+            "source": "Content Creator Exclusive (Khasino/Valley)",
+            "sourceUrl": "https://youtube.com",
+            "date": "Limited Uses ⚡"
+        },
+        {
+            "code": "MARVELSTRIKE500",
+            "rewards": "500 Power Cores + Mega Orb x2",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Community Milestone Reward",
+            "sourceUrl": "https://marvelstrikeforce.com",
+            "date": "Tested: Oct 2026"
+        },
+        {
+            "code": "SUMMERSTRIKE2025",
+            "rewards": "400 Power Cores + 1M Gold",
+            "status": "expired",
+            "badgeText": "Expired 🔴",
+            "source": "Archived Event Drop",
+            "sourceUrl": "#",
+            "date": "Expired (Archived)"
+        }
+    ]
 }
