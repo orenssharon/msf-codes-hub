@@ -1,10 +1,9 @@
-name: Auto-Update MSF Codes
+name: Auto-Upgrade MSF Codes Hub
 
 on:
   schedule:
-    # ירוץ אוטומטית כל 6 שעות
     - cron: '0 */6 * * *'
-  workflow_dispatch: # מאפשר לך גם ללחוץ ידנית בגיטהאב מתי שתרצה
+  workflow_dispatch:
 
 jobs:
   update-codes:
@@ -13,18 +12,18 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Run update script
+      - name: Run live code scraper
         run: python update_codes.py
 
-      - name: Commit and push if changes detected
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit and push changes if updated
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update MSF codes vault via GitHub Actions"
+          commit_message: "Auto-update MSF codes via live community scraper"
           branch: main
