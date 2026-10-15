@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "Oct 13, 2026 - 10:33 UTC",
+    "lastUpdated": "Oct 15, 2026 - 15:07 UTC",
     "codes": [
         {
             "code": "DOCTYPE",
@@ -291,12 +291,12 @@
         },
         {
             "code": "3000000",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Archived Event Drop",
+            "status": "expired",
+            "badgeText": "Expired 🔴",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-            "date": "Synced: Oct 2026"
+            "date": "Expired (Archived)"
         },
         {
             "code": "2FESQLOG",
@@ -894,21 +894,21 @@
         },
         {
             "code": "LEAGUE",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Archived Event Drop",
+            "status": "expired",
+            "badgeText": "Expired 🔴",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-            "date": "Synced: Oct 2026"
+            "date": "Expired (Archived)"
         },
         {
             "code": "LEGENDS",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Archived Event Drop",
+            "status": "expired",
+            "badgeText": "Expired 🔴",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-            "date": "Synced: Oct 2026"
+            "date": "Expired (Archived)"
         },
         {
             "code": "3345666",
@@ -975,12 +975,12 @@
         },
         {
             "code": "203000000",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Archived Event Drop",
+            "status": "expired",
+            "badgeText": "Expired 🔴",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-            "date": "Synced: Oct 2026"
+            "date": "Expired (Archived)"
         },
         {
             "code": "3E2FESQLOG",
@@ -1182,12 +1182,12 @@
         },
         {
             "code": "3ECCRUCIBLECLASH",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "3EFOUR",
@@ -1209,12 +1209,12 @@
         },
         {
             "code": "3ECOSMICCLASH",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "3ETHANKYOU4100K",
@@ -1452,39 +1452,39 @@
         },
         {
             "code": "MSFVISION2026",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "COSMICCLASH",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "GODARINGWARRIORS",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "CHAMPIONSRISING",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "JANUARYBOOST",
@@ -1947,57 +1947,57 @@
         },
         {
             "code": "1STCOUNTCHAMPS",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "CHALLENGE6CC",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "THUNDER5CWIN",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "ANEWCCCHAMPION",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "INTELINCOMING",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "SSDANGERROOM",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "GREENANDPURPLE",
@@ -2019,12 +2019,12 @@
         },
         {
             "code": "THUNDER",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "LORDANNIHILUS",
@@ -2037,39 +2037,39 @@
         },
         {
             "code": "MSF7YEARSSTRONG",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "LETSGO5C",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "HAPPY7CCMSF",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "STRIKEFORCESEVEN",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "ATOASTTOMSF",
@@ -2145,12 +2145,12 @@
         },
         {
             "code": "ORCHIS",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "ASSEMBLE",
@@ -2163,21 +2163,21 @@
         },
         {
             "code": "5CCHALLENGE",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "TOURNAMENTDAY",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "POOLPARTY1",
@@ -2199,57 +2199,57 @@
         },
         {
             "code": "GAMBIT",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "THECHAMPIONCC",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "WHOWILLWIN",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "ONEMORETIME",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "CCENVOY",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "CELEBRATE",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Content Creator Exclusive Reward",
+            "status": "rare",
+            "badgeText": "Rare / Exclusive ⚡",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Limited Uses ⚡"
         },
         {
             "code": "WELCOME",
@@ -2271,12 +2271,12 @@
         },
         {
             "code": "THRESHOLDS",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
+            "rewards": "Archived Event Drop",
+            "status": "expired",
+            "badgeText": "Expired 🔴",
             "source": "Live Community Scraper",
             "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
+            "date": "Expired (Archived)"
         },
         {
             "code": "IFRAME",
@@ -2289,6 +2289,42 @@
         },
         {
             "code": "616453",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
+            "code": "151010",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
+            "code": "151009",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
+            "code": "151002",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
+            "code": "151003",
             "rewards": "Verified Community Reward Drop",
             "status": "active",
             "badgeText": "Active 🟢",
@@ -2388,42 +2424,6 @@
         },
         {
             "code": "150964",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
-            "source": "Live Community Scraper",
-            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
-        },
-        {
-            "code": "150952",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
-            "source": "Live Community Scraper",
-            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
-        },
-        {
-            "code": "150958",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
-            "source": "Live Community Scraper",
-            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
-        },
-        {
-            "code": "150954",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
-            "source": "Live Community Scraper",
-            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
-        },
-        {
-            "code": "150922",
             "rewards": "Verified Community Reward Drop",
             "status": "active",
             "badgeText": "Active 🟢",
