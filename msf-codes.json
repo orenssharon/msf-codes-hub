@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "Oct 16, 2026 - 17:39 UTC",
-  "lastUpdatedAt": "2026-10-16T17:39:35Z",
+  "lastUpdated": "Oct 16, 2026 - 17:48 UTC",
+  "lastUpdatedAt": "2026-10-16T17:48:58Z",
   "collectionStatus": "success",
   "successfulSources": [
     "Dexerto",
     "Pocket Tactics"
   ],
   "failedSources": [],
-  "candidateCount": 321,
+  "candidateCount": 149,
   "codes": [
     {
       "code": "004V20",
@@ -20,24 +20,6 @@
     },
     {
       "code": "005M11",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "007852",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "008765",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -82,57 +64,12 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "108614",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "113964",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "122541",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "125822",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "12H3M7",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "131008",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
     },
     {
@@ -145,15 +82,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "141414",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "14H270",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -163,178 +91,7 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "150390",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150838",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150921",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150983",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150985",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150988",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150991",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "150993",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151002",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151003",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151009",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151010",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151020",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151023",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "151025",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "152H1200L714",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "158597",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "168027",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "1753840",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "176540",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -370,24 +127,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "1927210",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "199242",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "1STCOUNTCHAMPS",
       "rewards": "Content Creator Exclusive Reward",
       "status": "rare",
@@ -395,15 +134,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "203000000",
-      "rewards": "Archived Event Drop",
-      "status": "expired",
-      "badgeText": "Expired 🔴",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Expired (Archived)"
     },
     {
       "code": "225H23",
@@ -442,24 +172,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "264439",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "280445",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "2FESQLOG",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -470,7 +182,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "6, to add one new code! Active codes in Marvel Strike Force There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes P",
       "sources": [
         {
@@ -479,225 +191,12 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
-    },
-    {
-      "code": "3000000",
-      "rewards": "Archived Event Drop",
-      "status": "expired",
-      "badgeText": "Expired 🔴",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Expired (Archived)",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "them. Updated October 12, 2026, to add one new code! Active codes in Marvel Strike Force There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Or",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "3150737",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "32266174",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3289763",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3294679",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3295302",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3297218",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "32L276",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "330500",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3310079",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3345666",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3346005",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3347798",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3347883",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3348196",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3348320",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3349769",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3355802",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3361570",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3377008",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "339284",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "339756",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3397878",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -712,51 +211,6 @@
       "badgeText": "Active 🟢",
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3406778",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3410351",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3411170",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3418228",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "353535",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
     },
     {
@@ -1111,15 +565,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "400016",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "407V16",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -1135,24 +580,6 @@
       "badgeText": "Active 🟢",
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "423687",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "454545",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
     },
     {
@@ -1192,34 +619,7 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "479520",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "51H270",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "526667",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "559719",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -1238,7 +638,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "THUNDER LORDANNIHILUS MSF7YEARSSTRONG LETSGO5C HAPPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMO",
       "sources": [
         {
@@ -1247,27 +647,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "616453",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "616656",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "62H270",
@@ -1306,61 +688,7 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "724668",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "726A22",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "735735",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "7495623",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "750446",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "761235",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "767450",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -1414,24 +742,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "837171",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "837457",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "85H116",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -1450,42 +760,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "877611",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "897367",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "928819",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "988015",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "9MXMXK8Z",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -1496,7 +770,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "en codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes Playing other games? Grab codes for: Dragon Traveler Chasing Immortality A",
       "sources": [
         {
@@ -1505,7 +779,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
     },
@@ -1520,7 +794,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "ethod, make sure your game is linked to a Scopely account or another login method via the Connect option in Settings, then use the same account to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can",
       "sources": [
         {
@@ -1529,98 +803,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
-    },
-    {
-      "code": "ABILITIES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "r game modes. The game features hundreds of characters from across the Marvel universe, including Spider-Man, Captain America, Iron Man, Doctor Strange, Loki, Venom, and more. You can upgrade your characters, unlock new abilities, build different team combinations, and take on increasingly difficult challenges as you p",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "ACTIVITIES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "creasingly difficult challenges as you progress. How do I get more free rewards in Marvel Strike Force? Marvel Strike Force codes aren't the only way to get free rewards. You can also complete daily objectives and other activities to earn useful resources, including Power Cores and upgrade materials. It's also worth ch",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "ALONGSIDE",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ding on the code, you can receive characters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other celebrations. There's no fixed schedule",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "AMAZING",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "ANEWCCCHAMPION",
@@ -1630,94 +815,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "ANNOUNCEMENTS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "rly. We keep track of new codes and move expired ones into the list below. You can also follow the official Marvel Strike Force social media accounts and Discord server, where Scopely shares game news, events, and other announcements. New codes can sometimes appear alongside community events and promotions. Is there a ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "APPEARING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ame. Depending on the code, you can receive characters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other celebrations. There's no fixe",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "APRILBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "e can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWI",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
     },
     {
       "code": "APRILCREDITS",
@@ -1730,7 +827,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "elling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINT",
       "sources": [
         {
@@ -1739,7 +836,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         },
         {
           "name": "Pocket Tactics",
@@ -1747,49 +844,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "ASSEMBLE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "ATOASTTOMSF",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "AUGUSTBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "you entered the code correctly. Even a small spelling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GOD",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
     },
@@ -1803,30 +858,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "AVAILABLE",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "ongest teams moving forward instead of waiting on daily resets, here are the current codes and how to redeem them. Updated October 12, 2026, to add one new code! Active codes in Marvel Strike Force There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
       "code": "BL4Z31",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -1837,7 +868,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "ke sure your game is linked to a Scopely account or another login method via the Connect option in Settings, then use the same account to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can reward T",
       "sources": [
         {
@@ -1846,7 +877,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
     },
@@ -1860,111 +891,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "BOOKMARKED",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "ually show up outside the game itself rather than through in-game menus. They’re most often shared alongside event announcements, promotional campaigns, or official updates across the game’s channels . Keeping this page bookmarked saves time by putting any available codes in one spot instead of having to hunt them down",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "CAMPAIGNS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "codes (October 2026) Where to find more codes New Marvel Strike Force codes usually show up outside the game itself rather than through in-game menus. They’re most often shared alongside event announcements, promotional campaigns, or official updates across the game’s channels . Keeping this page bookmarked saves time ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "CCENVOY",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "CELEBRATE",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everything you need to know about the latest Marvel Strike Force codes.",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "CELEBRATIONS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other celebrations. There's no fixed schedule, so checking back regularly gives you the best chance of fin",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
       "code": "CHALLENGE6CC",
       "rewards": "Content Creator Exclusive Reward",
       "status": "rare",
@@ -1972,30 +898,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "CHALLENGES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "verse, including Spider-Man, Captain America, Iron Man, Doctor Strange, Loki, Venom, and more. You can upgrade your characters, unlock new abilities, build different team combinations, and take on increasingly difficult challenges as you progress. How do I get more free rewards in Marvel Strike Force? Marvel Strike For",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
     },
     {
       "code": "CHALLENGESLAYERS",
@@ -2025,78 +927,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "CHARACTER",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "unt to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can reward Training Modules , Sigils , and character shards , all of which are crucial for late-game progression. Training Modules work alongsi",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "COLLECTOR",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "ns, or official updates across the game’s channels . Keeping this page bookmarked saves time by putting any available codes in one spot instead of having to hunt them down elsewhere. If you’re keeping up with other hero-collector or RPG games, you can also check out our codes guides for Mythic Heroes , Idle Heroes , an",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "COMBINATIONS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "hundreds of characters from across the Marvel universe, including Spider-Man, Captain America, Iron Man, Doctor Strange, Loki, Venom, and more. You can upgrade your characters, unlock new abilities, build different team combinations, and take on increasingly difficult challenges as you progress. How do I get more free ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
       "code": "COMMUNITYCOUNTS",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -2104,54 +934,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "CORRECTLY",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "the mailbox, particularly during events, promotions, and other special occasions. Why are my Marvel Strike Force codes not working? If your Marvel Strike Force codes aren't working, first check that you entered the code correctly. Even a small spelling mistake can prevent a code from working, so try copying and pasting",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "COSMICCLASH",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR ",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
     },
     {
       "code": "COUNTCHAMPSEPT",
@@ -2190,111 +972,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "DEPENDING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "so redeem them as soon as possible. We'll remove codes from this list when they stop working. What are Marvel Strike Force codes? Marvel Strike Force codes are free redeem codes that give you extra rewards in the game. Depending on the code, you can receive characters, credits, Power Cores, training materials, and othe",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "DIFFERENT",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "you extra rewards in the game. Depending on the code, you can receive characters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other cel",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "DIFFICULT",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "Marvel universe, including Spider-Man, Captain America, Iron Man, Doctor Strange, Loki, Venom, and more. You can upgrade your characters, unlock new abilities, build different team combinations, and take on increasingly difficult challenges as you progress. How do I get more free rewards in Marvel Strike Force? Marvel ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "DIMENSION",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "nlocking characters and more about surviving the grind, and codes can help when endgame systems start draining your resources dry. Between high-tier gear upgrades, ISO-8 investment, and preparing teams for raids or Dark Dimension runs, progress often stalls because the costs pile up faster than the rewards. If you’re t",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "DOCTYPE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "E0005E",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -2304,54 +981,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "ELSEWHERE",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "ongside event announcements, promotional campaigns, or official updates across the game’s channels . Keeping this page bookmarked saves time by putting any available codes in one spot instead of having to hunt them down elsewhere. If you’re keeping up with other hero-collector or RPG games, you can also check out our c",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "ENCOUNTER",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes Playing other games? Grab codes for: Dragon Traveler Chasing Immortality Anime Overload Note – Some players have reported issues while redeeming codes. If you encounter any problems, try redeeming them both in-game and through the webstore to ensure they work",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
       "code": "ENVOYHOLIDAZE",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -2359,30 +988,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "EVERYTHING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "TINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everything you need to know about the latest Marvel Strike Force codes.",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
     },
     {
       "code": "EXTRACREDITSEPT",
@@ -2431,7 +1036,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "nks to MSF codes . Rewards in Marvel Strike Force usually include training modules, characters, gold, and more. They're great for easy boosts and buffs, so don't miss out. Here are all the new Marvel Strike Force codes: FIRSTBREAKER - free rewards WEBSASSEMBLE - 500 power cores, five million gold, and 300 L4 training m",
       "sources": [
         {
@@ -2440,7 +1045,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         },
         {
           "name": "Pocket Tactics",
@@ -2448,42 +1053,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "FRAGMENTS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "Kayleigh Partleton Updated: Oct 10, 2026 Marvel Strike Force If you're looking for some Marvel Strike Force codes , then we can help you turn the tables on your enemies by gifting you free gold, power cores, orb fragments, and more in this awesome turn-based RPG. Play with over 200 characters from the Marvel universe, ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "GAMBIT",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
     },
     {
       "code": "GODARINGWARRIORS",
@@ -2505,7 +1077,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SEVENEIGHTNINE ",
       "sources": [
         {
@@ -2514,7 +1086,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
     },
@@ -2555,39 +1127,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "IFRAME",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "IMMORTALITY",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "SFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes Playing other games? Grab codes for: Dragon Traveler Chasing Immortality Anime Overload Note – Some players have reported issues while redeeming codes. If you en",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
       "code": "IMMORTALWEAPONS",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -2597,73 +1136,7 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "INCLUDING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "u progress. How do I get more free rewards in Marvel Strike Force? Marvel Strike Force codes aren't the only way to get free rewards. You can also complete daily objectives and other activities to earn useful resources, including Power Cores and upgrade materials. It's also worth checking your in-game inbox regularly. ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
       "code": "INCOMINGINTEL",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "INCREASINGLY",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "m across the Marvel universe, including Spider-Man, Captain America, Iron Man, Doctor Strange, Loki, Venom, and more. You can upgrade your characters, unlock new abilities, build different team combinations, and take on increasingly difficult challenges as you progress. How do I get more free rewards in Marvel Strike F",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "INTELBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "INTELDROP",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -2681,30 +1154,6 @@
       "date": "Limited Uses ⚡"
     },
     {
-      "code": "INVESTMENT",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "News Late-game Marvel Strike Force is less about unlocking characters and more about surviving the grind, and codes can help when endgame systems start draining your resources dry. Between high-tier gear upgrades, ISO-8 investment, and preparing teams for raids or Dark Dimension runs, progress often stalls because the ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
       "code": "JANUARYBOOST",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -2715,7 +1164,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "tly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO M",
       "sources": [
         {
@@ -2724,96 +1173,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "JULYBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "JULYGIFT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "JUNEBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "king, first check that you entered the code correctly. Even a small spelling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVIS",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "JUNETEENTH",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "KINGINBLACK",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "LEAGUE",
-      "rewards": "Archived Event Drop",
-      "status": "expired",
-      "badgeText": "Expired 🔴",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Expired (Archived)"
-    },
-    {
-      "code": "LEGENDS",
-      "rewards": "Archived Event Drop",
-      "status": "expired",
-      "badgeText": "Expired 🔴",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Expired (Archived)"
-    },
-    {
-      "code": "LEGION",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "LETSGO5C",
@@ -2832,78 +1194,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "MATERIALS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "top working. What are Marvel Strike Force codes? Marvel Strike Force codes are free redeem codes that give you extra rewards in the game. Depending on the code, you can receive characters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new cod",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "MAYCREDITS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "the code correctly. Even a small spelling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIOR",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "MILESTONES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ceive characters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other celebrations. There's no fixed schedule, so checking back regularly",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
     },
     {
       "code": "MR7KFTJ",
@@ -2934,7 +1224,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "your game is linked to a Scopely account or another login method via the Connect option in Settings, then use the same account to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can reward Training ",
       "sources": [
         {
@@ -2943,18 +1233,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
-    },
-    {
-      "code": "MSFDADSDAY",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "MSFENVOYSZKG",
@@ -2967,7 +1248,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "t check that you entered the code correctly. Even a small spelling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 CO",
       "sources": [
         {
@@ -2976,27 +1257,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "MSFLIVE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "MSFMEMORIES",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "MSFPRIDE2025",
@@ -3018,7 +1281,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "nt a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD W",
       "sources": [
         {
@@ -3027,7 +1290,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
     },
@@ -3060,7 +1323,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "resets, here are the current codes and how to redeem them. Updated October 12, 2026, to add one new code! Active codes in Marvel Strike Force There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards F",
       "sources": [
         {
@@ -3069,7 +1332,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
     },
@@ -3084,7 +1347,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "rce codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SEVENEIGHTNINE IMMORTALWEAPONS SEVENEIGHTNINE",
       "sources": [
         {
@@ -3093,55 +1356,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "OBJECTIVES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "tions, and take on increasingly difficult challenges as you progress. How do I get more free rewards in Marvel Strike Force? Marvel Strike Force codes aren't the only way to get free rewards. You can also complete daily objectives and other activities to earn useful resources, including Power Cores and upgrade material",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "OCCASIONS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "uding Power Cores and upgrade materials. It's also worth checking your in-game inbox regularly. Scopely can send rewards directly to players through the mailbox, particularly during events, promotions, and other special occasions. Why are my Marvel Strike Force codes not working? If your Marvel Strike Force codes aren'",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
     },
@@ -3173,105 +1388,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "OCTOBERDROP",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "OCTOBERLIVE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "ONEMORETIME",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "D HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everything you need to know about the latest Marvel Str",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "ORCHIS",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "PARTICULARLY",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ctives and other activities to earn useful resources, including Power Cores and upgrade materials. It's also worth checking your in-game inbox regularly. Scopely can send rewards directly to players through the mailbox, particularly during events, promotions, and other special occasions. Why are my Marvel Strike Force ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "PARTLETON",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "Kayleigh Partleton Updated: Oct 10, 2026 Marvel Strike Force If you're looking for some Marvel Strike Force codes , then we can help you turn the tables on your enemies by gifting you free gold, power cores, orb fragments, and more in thi",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
       "code": "POOLPARTY1",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -3282,7 +1398,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "STRONG LETSGO5C HAPPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOM",
       "sources": [
         {
@@ -3291,127 +1407,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "PREFERRED",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "Gaming Codes Marvel Strike Force codes (October 2026) by Kuldeep Thapa Updated: Oct 12, 2026, 10:29 FoxNext/Dexerto Add as a preferred source on Google Follow on Google News Late-game Marvel Strike Force is less about unlocking characters and more about surviving the grind, and codes can help when endgame systems start",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "PREPARING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "arvel Strike Force is less about unlocking characters and more about surviving the grind, and codes can help when endgame systems start draining your resources dry. Between high-tier gear upgrades, ISO-8 investment, and preparing teams for raids or Dark Dimension runs, progress often stalls because the costs pile up fa",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "PROGRESSION",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "RILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can reward Training Modules , Sigils , and character shards , all of which are crucial for late-game progression. Training Modules work alongside Gold to level up characters, while Sigils are spent in ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "PROMOTIONAL",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "me Squadron codes (October 2026) Where to find more codes New Marvel Strike Force codes usually show up outside the game itself rather than through in-game menus. They’re most often shared alongside event announcements, promotional campaigns, or official updates across the game’s channels . Keeping this page bookmarked",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "PROMOTIONS",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other celebrations. There's no fixed schedule, so checking back regularly gives you t",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
     },
@@ -3426,7 +1422,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:34Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
+      "lastSeenAt": "2026-10-16T17:48:57Z",
       "evidence": "e There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes Playing other games? Grab codes for: Dragon Traveler Chasin",
       "sources": [
         {
@@ -3435,137 +1431,7 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:34Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "REDEEM",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "REDEEMING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "nity milestones, promotions, or other celebrations. There's no fixed schedule, so checking back regularly gives you the best chance of finding new MSF codes before they expire. How do I redeem Marvel Strike Force codes? Redeeming Marvel Strike Force codes only takes a few steps: Launch Marvel Strike Force Complete the ",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "REDMAGIC",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "REGULARLY",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ou build and upgrade your roster. Scopely releases new codes at different times, with some appearing alongside events, community milestones, promotions, or other celebrations. There's no fixed schedule, so checking back regularly gives you the best chance of finding new MSF codes before they expire. How do I redeem Mar",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "RESOURCES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "Marvel Strike Force codes? Marvel Strike Force codes are free redeem codes that give you extra rewards in the game. Depending on the code, you can receive characters, credits, Power Cores, training materials, and other resources that help you build and upgrade your roster. Scopely releases new codes at different times,",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "RETURNING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "and buffs, so don't miss out. Here are all the new Marvel Strike Force codes: FIRSTBREAKER - free rewards WEBSASSEMBLE - 500 power cores, five million gold, and 300 L4 training modules AMAZING - free Spider-Man rewards (returning players only) Plenty of other Marvel games are out there; if this one isn't for you, we ca",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:57Z"
         }
       ]
     },
@@ -3588,34 +1454,7 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "SEPTBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SEPTDROP",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "SEPTEMBERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SETTINGS",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
       "badgeText": "Active 🟢",
@@ -3660,39 +1499,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "SOMETIMES",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Pocket Tactics",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "es and move expired ones into the list below. You can also follow the official Marvel Strike Force social media accounts and Discord server, where Scopely shares game news, events, and other announcements. New codes can sometimes appear alongside community events and promotions. Is there a Marvel Strike Force Discord s",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "SPONSORED",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
       "code": "SSDANGERROOM",
       "rewards": "Content Creator Exclusive Reward",
       "status": "rare",
@@ -3709,48 +1515,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "STRONGEST",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "ources dry. Between high-tier gear upgrades, ISO-8 investment, and preparing teams for raids or Dark Dimension runs, progress often stalls because the costs pile up faster than the rewards. If you’re trying to keep your strongest teams moving forward instead of waiting on daily resets, here are the current codes and ho",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "SUMMERBONUS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SUMMERBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "SUMMERCOUNTDOWN",
@@ -3780,39 +1544,6 @@
       "date": "Synced: Oct 2026"
     },
     {
-      "code": "SUMMERGAINS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SURVIVING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "odes (October 2026) by Kuldeep Thapa Updated: Oct 12, 2026, 10:29 FoxNext/Dexerto Add as a preferred source on Google Follow on Google News Late-game Marvel Strike Force is less about unlocking characters and more about surviving the grind, and codes can help when endgame systems start draining your resources dry. Betw",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
       "code": "SYMBIOTESMASH",
       "rewards": "Verified Community Reward Drop",
       "status": "active",
@@ -3832,7 +1563,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "SEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everything you need to know ab",
       "sources": [
         {
@@ -3841,27 +1572,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "THRESHOLDS",
-      "rewards": "Archived Event Drop",
-      "status": "expired",
-      "badgeText": "Expired 🔴",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Expired (Archived)"
-    },
-    {
-      "code": "THUNDER",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
     },
     {
       "code": "THUNDER5CWIN",
@@ -3883,7 +1596,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "DANNIHILUS MSF7YEARSSTRONG LETSGO5C HAPPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCEN",
       "sources": [
         {
@@ -3892,108 +1605,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "UNLOCKING",
-      "rewards": "Discovered via public guide — check in-game rewards",
-      "status": "active",
-      "source": "Dexerto",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Oct 16, 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:34Z",
-      "evidence": "Gaming Codes Marvel Strike Force codes (October 2026) by Kuldeep Thapa Updated: Oct 12, 2026, 10:29 FoxNext/Dexerto Add as a preferred source on Google Follow on Google News Late-game Marvel Strike Force is less about unlocking characters and more about surviving the grind, and codes can help when endgame systems start",
-      "verificationMethod": "source_discovery",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:34Z"
-        }
-      ]
-    },
-    {
-      "code": "UOCNQWJW",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "VENOMFREE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "APPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everythi",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "WEBPLAYABLE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "WEBSASSEMBLE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "n Marvel Strike Force usually include training modules, characters, gold, and more. They're great for easy boosts and buffs, so don't miss out. Here are all the new Marvel Strike Force codes: FIRSTBREAKER - free rewards WEBSASSEMBLE - 500 power cores, five million gold, and 300 L4 training modules AMAZING - free Spider",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "WELCOME",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "WELCOMEBACKF4",
@@ -4003,30 +1617,6 @@
       "source": "Live Community Scraper",
       "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "WHOWILLWIN",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "ASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everything you need to know about the latest",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
     },
     {
       "code": "WINTERCOUNTS",
@@ -4039,7 +1629,7 @@
       "firstSeen": "Oct 16, 2026",
       "firstSeenAt": "2026-10-16T17:39:35Z",
       "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
+      "lastSeenAt": "2026-10-16T17:48:58Z",
       "evidence": "active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SE",
       "sources": [
         {
@@ -4048,42 +1638,9 @@
           "firstSeen": "Oct 16, 2026",
           "firstSeenAt": "2026-10-16T17:39:35Z",
           "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
+          "lastSeenAt": "2026-10-16T17:48:58Z"
         }
       ]
-    },
-    {
-      "code": "WINTERGIFT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T17:39:35Z",
-      "evidence": "Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SEVENEIGHTNINE IMMORTALWEAPON",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T17:39:35Z"
-        }
-      ]
-    },
-    {
-      "code": "YELENA",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
     },
     {
       "code": "Z2MFX5E6M4",
