@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "Oct 15, 2026 - 10:20 UTC",
+    "lastUpdated": "Oct 15, 2026 - 13:53 UTC",
     "codes": [
         {
             "code": "DOCTYPE",
@@ -2297,6 +2297,33 @@
             "date": "Synced: Oct 2026"
         },
         {
+            "code": "151023",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
+            "code": "REDMAGIC",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
+            "code": "151020",
+            "rewards": "Verified Community Reward Drop",
+            "status": "active",
+            "badgeText": "Active 🟢",
+            "source": "Live Community Scraper",
+            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
+            "date": "Synced: Oct 2026"
+        },
+        {
             "code": "150838",
             "rewards": "Verified Community Reward Drop",
             "status": "active",
@@ -2406,24 +2433,6 @@
         },
         {
             "code": "150891",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
-            "source": "Live Community Scraper",
-            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
-        },
-        {
-            "code": "150972",
-            "rewards": "Verified Community Reward Drop",
-            "status": "active",
-            "badgeText": "Active 🟢",
-            "source": "Live Community Scraper",
-            "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-            "date": "Synced: Oct 2026"
-        },
-        {
-            "code": "150970",
             "rewards": "Verified Community Reward Drop",
             "status": "active",
             "badgeText": "Active 🟢",
