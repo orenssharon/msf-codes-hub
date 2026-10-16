@@ -26,7 +26,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper script
-        run: python your_script_name.py  # <--- החלף כאן לשם המדויק של הקובץ שלך (למשל scraper.py)
+        run: python update_codes.py  # <--- החלף כאן לשם המדויק של הקובץ שלך (למשל scraper.py)
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
