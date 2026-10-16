@@ -2,7 +2,7 @@ name: Run MSF Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * *' # רץ אוטומטית פעם ביום
+    - cron: '0 0,12 * * *' # רץ אוטומטית כל 12 שעות (בחצות ובצהריים לפי שעון UTC)
   workflow_dispatch: # מאפשר כפתור הפעלה ידנית
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper script
-        run: python update_codes.py  # <--- החלף כאן לשם המדויק של הקובץ שלך (למשל scraper.py)
+        run: python update_codes.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
