@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""MSF Code Collector v7.1
+"""MSF Code Collector v7.2
 
-Collects possible Marvel Strike Force redemption-code candidates from public
-third-party pages and formats them for the SmartChoiceLinks MSF Hub.
+Collects strict Marvel Strike Force redemption-code candidates from public
+third-party pages, filtering out ordinary English words and numeric IDs.
 Standard-library only; no pip installation required.
 """
 
@@ -31,9 +31,11 @@ SOURCES = [
     },
 ]
 
+# MSF codes typically mix letters and numbers, or follow specific formats.
 TOKEN_RE = re.compile(r"(?<![A-Z0-9])[A-Z0-9]{6,14}(?![A-Z0-9])", re.I)
 SPACE_RE = re.compile(r"\s+")
 
+# Expanded ignore list to block common article words, HTML tags, and metadata
 IGNORE_TOKENS = {
     "DOCTYPE", "HTML", "HTTPS", "HTTP", "JSON", "MARVEL", "STRIKE",
     "FORCE", "DISCORD", "PYTHON", "WINDOWS", "EXPIRED", "ACTIVE",
@@ -41,11 +43,21 @@ IGNORE_TOKENS = {
     "CORES", "POCKET", "TACTICS", "DEXERTO", "ARTICLE", "CONTENT",
     "REWARDS", "REDEEM", "REDEMPTION", "WORKING", "LATEST", "UPDATED",
     "FOLLOW", "SUBMIT", "BUTTON", "SERVER", "SOURCE", "STATUS",
-    "UNKNOWN", "VERIFY", "VERIFIED", "SCOP​​ELY", "CHARACTERS", "PLAYER",
-    "PLAYERS", "ACCOUNT", "GAMING", "WEBSITE", "OFFICIAL", "COMMUNITY",
-    "REWARD", "CODES", "CODE", "GIFT", "CLAIM", "LOGIN", "REGISTER",
-    "DOWNLOAD", "SUPPORT", "PRIVACY", "TERMS", "COOKIE", "COOKIES",
-    "NEWSLETTER", "FACEBOOK", "TWITTER", "INSTAGRAM", "REDDIT",
+    "UNKNOWN", "VERIFY", "VERIFIED", "SCOPELY", "SCOP​​ELY", "CHARACTERS",
+    "PLAYER", "PLAYERS", "ACCOUNT", "GAMING", "WEBSITE", "OFFICIAL",
+    "COMMUNITY", "REWARD", "CODES", "CODE", "GIFT", "CLAIM", "LOGIN",
+    "REGISTER", "DOWNLOAD", "SUPPORT", "PRIVACY", "TERMS", "COOKIE",
+    "COOKIES", "NEWSLETTER", "FACEBOOK", "TWITTER", "INSTAGRAM", "REDDIT",
+    "ACTIVITIES", "CAMPAIGNS", "ANNOUNCEMENTS", "APPEARING", "AVAILABLE",
+    "BOOKMARKED", "CELEBRATIONS", "CHALLENGES", "CHARACTER", "COLLECTOR",
+    "COMBINATIONS", "CORRECTLY", "DEPENDING", "DIFFERENT", "DIFFICULT",
+    "DIMENSION", "ELSEWHERE", "ENCOUNTER", "EVERYTHING", "FRAGMENTS",
+    "IMMORTALITY", "INCLUDING", "INCREASINGLY", "INVESTMENT", "MATERIALS",
+    "MILESTONES", "OBJECTIVES", "OCCASIONS", "PARTICULARLY", "PARTLETON",
+    "PREFERRED", "PREPARING", "PROGRESSION", "PROMOTIONAL", "PROMOTIONS",
+    "REDEEMING", "REGULARLY", "RESOURCES", "RETURNING", "SOMETIMES",
+    "STRONGEST", "SURVIVING", "UNLOCKING", "WEBPLAYABLE", "WEBSASSEMBLE",
+    "WELCOME",
 }
 
 CONTEXT_RE = re.compile(
@@ -67,11 +79,6 @@ BLOCK_PHRASES = (
 IGNORED_TAGS = {
     "script", "style", "noscript", "svg", "iframe", "nav", "header",
     "footer", "aside", "form", "button", "select", "option",
-}
-
-TRUSTED_VERIFICATION_METHODS = {
-    "manual_in_game", "in_game", "official_scopely", "official_api",
-    "manual_verified", "source_discovery",
 }
 
 
@@ -196,7 +203,6 @@ def fetch_source(source):
     try:
         with urllib.request.urlopen(request, timeout=TIMEOUT_SECONDS) as response:
             status = getattr(response, "status", 200)
-            content_type = response.headers.get("Content-Type", "").lower()
             raw = response.read()
     except (urllib.error.URLError, TimeoutError, OSError) as exc:
         raise ValueError(f"HTTP request failed: {exc}") from exc
@@ -219,15 +225,28 @@ def fetch_source(source):
     return text
 
 
+def is_valid_code_candidate(code):
+    """Strict validation to block pure numbers, pure common words, and plain text."""
+    if code in IGNORE_TOKENS:
+        return False
+    
+    # Block purely numeric strings (MSF codes are alphanumeric or specific strings)
+    if code.isdigit():
+        return False
+
+    # Block purely alphabetic strings unless they are very specific/short (most English words are alphabetic)
+    if code.isalpha() and len(code) < 12:
+        return False
+
+    return True
+
+
 def extract_candidates(text):
     candidates = {}
     for match in TOKEN_RE.finditer(text):
         code = match.group(0).upper()
-        if code in IGNORE_TOKENS:
-            continue
-        if code.isdigit() and len(code) < 7:
-            continue
-        if code.isalpha() and len(code) < 9:
+        
+        if not is_valid_code_candidate(code):
             continue
 
         start = max(0, match.start() - 220)
@@ -270,7 +289,7 @@ def merge_candidate(vault, code, evidence, source, seen_at, seen_date):
         vault[code] = {
             "code": code,
             "rewards": "Discovered via public guide — check in-game rewards",
-            "status": "active",  # מוגדר כ-active כדי שיופיע בממשק היפה שלך
+            "status": "active",
             "source": source["name"],
             "sourceUrl": source["url"],
             "date": seen_date,
@@ -322,7 +341,16 @@ def atomic_write_json(filename, data):
 
 
 def scrape_and_classify_codes(filename=FILENAME):
+    # Start fresh or load existing valid ones, but clear out pure numeric/word debris
     vault = load_existing_vault(filename)
+    
+    # Clean out legacy junk tokens from existing vault automatically
+    cleaned_vault = {}
+    for code, rec in vault.items():
+        if is_valid_code_candidate(code):
+            cleaned_vault[code] = rec
+    vault = cleaned_vault
+
     successful_sources = []
     failed_sources = []
     new_codes = 0
@@ -368,7 +396,7 @@ def main():
         if updated is None:
             return 1
         atomic_write_json(FILENAME, updated)
-        print(f"SUCCESS: Vault safely updated. Total codes: {len(updated['codes'])}")
+        print(f"SUCCESS: Vault safely updated. Total valid codes: {len(updated['codes'])}")
         return 0
     except Exception as exc:
         print(f"CRITICAL: Update aborted: {exc}", file=sys.stderr)
