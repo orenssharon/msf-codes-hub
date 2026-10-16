@@ -1,1655 +1,2878 @@
 {
-  "lastUpdated": "Oct 16, 2026 - 20:14 UTC",
-  "lastUpdatedAt": "2026-10-16T20:14:50Z",
-  "collectionStatus": "success",
-  "successfulSources": [
-    "Dexerto",
-    "Pocket Tactics"
-  ],
-  "failedSources": [],
-  "candidateCount": 149,
+  "last_updated": "2026-10-16 21:22:55 UTC",
+  "total_active": 303,
+  "total_rare": 16,
   "codes": [
     {
-      "code": "004V20",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
+      "code": "ACCEPT",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "005M11",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "034C28",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "055A13",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "072V16",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "0V24H24V13",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "12H3M7",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "13V125",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "14H270",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "152H1200L714",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "178A23",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "187H13",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "18H3M5",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "1STCOUNTCHAMPS",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "225H23",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "238A11",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "238C36",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "2547TM",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "2FESQLOG",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "6, to add one new code! Active codes in Marvel Strike Force There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes P",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "32L276",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "339H91",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "357V13",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3E05GSLZUQ",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3E2FESQLOG",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3E9MXMXK8Z",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3E9UAGMTSL",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EAPRILBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EAPRILCREDITS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EBL4Z31",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ECCRUCIBLECLASH",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "3ECOSMICCLASH",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "3EDANGERROOMGO",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EDEADPOOL",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EFEBRUARYGIFT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EFIRSTBREAKER",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EFOUR",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EH7B6UYUB",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EHELLFIREFITS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EHELLFIREHEAT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EHIJACK",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EINUPDQ12",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EJANUARYBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EMARCHCREDITS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EMSF8",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EMSF8ENVOYS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EMSF8PARTY",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EMSFLIVE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EMSFMEMORIES",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ENEWMUTANTSRISE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ENJBTNB3V",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ENOVEMBERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EQEPAB1PW",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ESEPTBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ESEPTDROP",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3ETHANKYOU4100K",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EUOCNQWJW",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EWELCOMEBACKF4",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EWINTERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3EWINTERGIFT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "3KXPBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "407V16",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "407V27",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "45L498",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "466A22",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "469V16",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "476L569",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "51H270",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "5CCHALLENGE",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "THUNDER LORDANNIHILUS MSF7YEARSSTRONG LETSGO5C HAPPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMO",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "62H270",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "657C34",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "6TD2FV",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "721H892",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "726A22",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "77H270",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "789L10",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "7KCHAMPS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "819C14",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "82H270",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "85H116",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "86L667",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "9MXMXK8Z",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "en codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes Playing other games? Grab codes for: Dragon Traveler Chasing Immortality A",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "9UAGMTSL",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "ethod, make sure your game is linked to a Scopely account or another login method via the Connect option in Settings, then use the same account to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "ANEWCCCHAMPION",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "APRILCREDITS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "elling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINT",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "AUGUSTCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "BL4Z31",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "ke sure your game is linked to a Scopely account or another login method via the Connect option in Settings, then use the same account to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can reward T",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "BLASTAARLEGEND",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "CHALLENGE6CC",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "CHALLENGESLAYERS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "CHAMPIONSRISING",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "CHAPTER2ISHERE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "COMMUNITYCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "COUNTCHAMPSEPT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "COUNTTO7K",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "D91A68",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "DANGERROOMGO",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "E0005E",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
+      "score": 125
     },
     {
       "code": "ENVOYHOLIDAZE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "EXTRACREDITSEPT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "FANSTASTIC7K",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "FANSTASTICTRIVIA",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "FIRST5C2025",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "FIRSTBREAKER",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "nks to MSF codes . Rewards in Marvel Strike Force usually include training modules, characters, gold, and more. They're great for easy boosts and buffs, so don't miss out. Here are all the new Marvel Strike Force codes: FIRSTBREAKER - free rewards WEBSASSEMBLE - 500 power cores, five million gold, and 300 L4 training m",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        },
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
+      "score": 125
     },
     {
-      "code": "GODARINGWARRIORS",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
+      "code": "1STCOUNTCHAMPS",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "GOWINTERGUARD",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SEVENEIGHTNINE ",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "GREENANDPURPLE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "HAPPY5C32",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
+      "score": 125
     },
     {
       "code": "HAPPY7CCMSF",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "HELLFIREHEAT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "IMMORTALWEAPONS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "INCOMINGINTEL",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "INTELINCOMING",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "JANUARYBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "tly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO M",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
+      "score": 125
     },
     {
-      "code": "LETSGO5C",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
+      "code": "ANEWCCCHAMPION",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "LORDANNIHILUS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "MR7KFTJ",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "MSF7YEARSSTRONG",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "MSF8PARTY",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "your game is linked to a Scopely account or another login method via the Connect option in Settings, then use the same account to sign in on the website. Expired codes list Codes APRILCREDITS APRILBOOST 9UAGMTSL BL4Z31 MSF8PARTY What are Marvel Strike Force codes used for? Marvel Strike Force codes can reward Training ",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
+      "score": 125
     },
     {
-      "code": "MSFENVOYSZKG",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
+      "code": "OCCASIONS",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "t check that you entered the code correctly. Even a small spelling mistake can prevent a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 CO",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "MSFPRIDE2025",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "MSFVISION2026",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "nt a code from working, so try copying and pasting it directly from our active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD W",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "NAY834S",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "NEWMUTANTSRISE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "NJBTNB3V",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "resets, here are the current codes and how to redeem them. Updated October 12, 2026, to add one new code! Active codes in Marvel Strike Force There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards F",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "NOVEMBERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "rce codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SEVENEIGHTNINE IMMORTALWEAPONS SEVENEIGHTNINE",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "OCTOBERBONUS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "OCTOBERBOOST",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "OCTOBERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "POOLPARTY1",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "STRONG LETSGO5C HAPPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOM",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "QEPAB1PW",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-      "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:34Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "e There are seven codes available, working at the time of writing: Code Rewards NJBTNB3V NEW Rewards MSFLIVE 200 L4 Training Modules 3000000 Gold 500 Power Cores 2FESQLOG Rewards FIRSTBREAKER Rewards UOCNQWJW 1 Gold Orb QEPAB1PW 1 Orb 9MXMXK8Z 1 Orb More codes Playing other games? Grab codes for: Dragon Traveler Chasin",
-      "sources": [
-        {
-          "name": "Dexerto",
-          "url": "https://www.dexerto.com/codes/marvel-strike-force-codes-3297218/",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:34Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
-    },
-    {
-      "code": "RIMSTONESHOWDOWN",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SEASONSGROOTINGS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SEPTEMBERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SEVENEIGHTNINE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SINISTERSCHEMES",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SINISTERSCUFFLE",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SINISTERSKIRMISH",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SSDANGERROOM",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "STRIKEFORCESEVEN",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
-    },
-    {
-      "code": "SUMMERCOUNTDOWN",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SUMMERCOUNTING",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SUMMERFINALCOUNT",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
-    },
-    {
-      "code": "SYMBIOTESMASH",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
-      "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
+      "score": 125
     },
     {
       "code": "THECHAMPIONCC",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "SEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCENVOY CELEBRATE WELCOME That's everything you need to know ab",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
+      "date": "Synced: Oct 2026",
+      "score": 125
     },
     {
-      "code": "THUNDER5CWIN",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
+      "code": "CHALLENGE6CC",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡"
+      "date": "Synced: Oct 2026",
+      "score": 125
     },
     {
-      "code": "TOURNAMENTDAY",
-      "rewards": "Content Creator Exclusive Reward",
-      "status": "rare",
-      "badgeText": "Rare / Exclusive ⚡",
+      "code": "COUNTCHAMPSEPT",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Limited Uses ⚡",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "DANNIHILUS MSF7YEARSSTRONG LETSGO5C HAPPY7CCMSF STRIKEFORCESEVEN MSF7 ATOASTTOMSF RED HAPPY5C32 FIRST5C2025 3KXPBOOST SEASONSGROOTINGS WINTERGIFT ENVOYHOLIDAZE DREAM SYMBIOTESMASH KINGINBLACK ORCHIS ASSEMBLE 5CCHALLENGE TOURNAMENTDAY SHURI POOLPARTY1 Night VENOMFREE GAMBIT Pool THECHAMPIONCC WHOWILLWIN ONEMORETIME CCEN",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "CCENVOY",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "CHAMPIONSRISING",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "ACCOUNTS",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "MSFENVOYSZKG",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "7KCHAMPS",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "5CCHALLENGE",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "COSMICCLASH",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "TAKES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SUMMERCOUNTING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MOBILE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ALONGSIDE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SINISTERSCHEMES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INTELINCOMING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "HELLFIREHIGHFASHION",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TRAINING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GOWINTERGUARD",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SHARE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FIRST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SELECT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TERMS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "USEFUL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ABILITIES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OBJECTIVES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POCKETGAMER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SEARCHING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PCGAMESINSIDER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DISCORD",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WHILE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BEFORE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "VENOMFREE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OCTOBERBONUS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TUTORIAL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PROBABLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "STRIKEFORCESEVEN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BUILD",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SUMMERGAINS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SUMMERFINALCOUNT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SCOPELY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "VENOM",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DEPENDING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ENEMIES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MAYCREDITS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WEBSASSEMBLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHECK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GAMERANT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OFFICIAL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MEDIA",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PROMOTIONS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RELEASES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PHONES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "AUGUSTBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MISTAKE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OUTFIT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THERE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ATOASTTOMSF",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COUNTTO7K",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FIXED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TEAMS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GREENANDPURPLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "UNIVERSE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BELOW",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "STRANGE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SUMMERBONUS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DOESN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TIKTOK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "AWESOME",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
     },
     {
       "code": "WELCOMEBACKF4",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INTELBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "STEPPING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JUNEBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DISCORDPLAYERPOLL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PLAYERS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SPIDER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PLENTY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EVENTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "AUGUSTCOUNTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "APPEARING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OPERATIONSINISTER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FRAGMENTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CAPTAIN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PARTLETON",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SINISTERSKIRMISH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WALKS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SEPTDROP",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JULYBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SOMETIMES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ENTER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MSF7YEARSSTRONG",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GREAT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SPELLING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LORDANNIHILUS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "IMMORTALWEAPONS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TRACK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FIRSTBREAKER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ROBLOX",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POWER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "UPCOMING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CORRECTLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "UPDATED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OCTOBERDROP",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POINT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "UNLOCK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INSTAGRAM",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TABLES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "HELLFIREHEAT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ACTIVE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ENJOYS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "3KXPBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TOURNAMENTDAY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ACROSS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SUMMERCOUNTDOWN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GODARINGWARRIORS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JUNETEENTH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INCLUDE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ROSTER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DIRECTLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BLUESKY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RETURNING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SSDANGERROOM",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POSSIBLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MSFPRIDE2025",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PASTING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MODULES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "APRILCREDITS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INCOMINGINTEL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MILLION",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FAILING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SUMMERBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MODES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHALLENGES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THUNDER5CWIN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PREVENT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ANGEL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EASIEST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "NIGHT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JOURNALISTIC",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHAPTER2ISHERE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "AMAZING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SMALL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TAKING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "HAPPY5C32",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "6TD2FV",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EVERYTHING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ABOUT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHALLENGESLAYERS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GERALT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GAMING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ENTERED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SPECIAL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INCLUDING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FANSTASTICTRIVIA",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GOODIES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COMBINATIONS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OCTOBERCOUNTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RAIDS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WEBPLAYABLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DANGERROOMGO",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COUNTINGCORNER10K",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TIMES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EXPIRED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INBOX",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THANKS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "START",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "AMERICA",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WARNING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "REDEEM",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "NOVEMBER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CONTENT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "REMOVE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ORCHIS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THROUGH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BASED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DIFFERENT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ASSEMBLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FINDING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CAREERS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "VILLAINS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INTELDROP",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COMPLETE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SKYRIM",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SEPTBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RIMSTONESHOWDOWN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FACEBOOK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DEPUTY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OTHER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CONDITIONSABOUT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RECEIVE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CREDITS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DOCTOR",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JANUARYBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ANNOUNCEMENTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ABOVE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LOVER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WARGAMER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LAUNCH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EDITOR",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PCGAMESN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ALREADY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SWITCH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHATTING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FEATURES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INVITATION",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "YELENA",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHANCE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EXTRA",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SEASONSGROOTINGS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SEVENEIGHTNINE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ONEMORETIME",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DAILY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WITHOUT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THINK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RESOURCES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JULYGIFT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PLAYTIME",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DREAM",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SYMBIOTESMASH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "APRILBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "AUDACITY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COMMUNITYCOUNTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SINISTERSTRIKESBACK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WHERE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "HUNDREDS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WHOWILLWIN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MATERIALS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BATTLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COPYING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "UPGRADE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TESTING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COMMUNITYINTELDROP",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MAILBOX",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PLAYING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PARTICULARLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EXTRACREDITSEPT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WORDS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THUNDER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHECKING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "NETWORK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "PROGRESS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LATEST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "REGULARLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BOOKMARK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LETSGO5C",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "TACTICS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DROPITLIKEITSAUGUST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CHARACTERS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SINISTERSCUFFLE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WRITER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "HEROES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "NEWMUTANTSRISE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "APPEAR",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POCKET",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LOOKING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "STEPS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SEPTEMBERCOUNTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POOLPARTY1",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BOOSTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "NINTENDO",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MSFMEMORIES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FIRST5C2025",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DURING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "ONEPLUS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "INCREASINGLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "USCAREERS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CELEBRATIONS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DIFFICULT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SHARES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MSFDADSDAY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SOCIAL",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THINGS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JOINED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CODES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
     },
     {
       "code": "WINTERCOUNTS",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
       "date": "Synced: Oct 2026",
-      "firstSeen": "Oct 16, 2026",
-      "firstSeenAt": "2026-10-16T17:39:35Z",
-      "lastSeen": "Oct 16, 2026",
-      "lastSeenAt": "2026-10-16T20:14:50Z",
-      "evidence": "active codes list. Expired Marvel Strike Force codes: JUNEBOOST MSFENVOYSZKG AUGUSTBOOST MAYCREDITS ANGEL DISCORDPLAYERPOLL APRILCREDITS APRILBOOST MSFVISION2026 COSMICCLASH GODARINGWARRIORS CHAMPIONSRISING JANUARYBOOST WINTERCOUNTS GOWINTERGUARD WINTERGIFT FOUR NOVEMBERCOUNTS NEWMUTANTSRISE DANGERROOMGO MSFMEMORIES SE",
-      "sources": [
-        {
-          "name": "Pocket Tactics",
-          "url": "https://www.pockettactics.com/marvel-strike-force/codes",
-          "firstSeen": "Oct 16, 2026",
-          "firstSeenAt": "2026-10-16T17:39:35Z",
-          "lastSeen": "Oct 16, 2026",
-          "lastSeenAt": "2026-10-16T20:14:50Z"
-        }
-      ]
+      "score": 75
     },
     {
-      "code": "Z2MFX5E6M4",
-      "rewards": "Verified Community Reward Drop",
-      "status": "active",
-      "badgeText": "Active 🟢",
+      "code": "STAFF",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
-      "sourceUrl": "https://www.pockettactics.com/marvel-strike-force/codes",
-      "date": "Synced: Oct 2026"
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "CELEBRATE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "COLLECT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "EXPIRE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SHURI",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "YOUTUBE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "DISCUSS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GIFTING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SCHEDULE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GIVEAWAYS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POWERED",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WINTERGIFT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "KINGINBLACK",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WORKING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "REDEEMING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SETTINGS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "SERVER",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "HAVEN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BLASTAARLEGEND",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BORING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "KAYLEIGH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "NOVEMBERCOUNTS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MSFVISION2026",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FOLLOW",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OCTOBERLIVE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MILESTONES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "RIVIA",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POPPY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "OCTOBERBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WELCOME",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "JOINING",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GAMBIT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "USUALLY",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "LOADOUT",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WORTH",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "BUFFS",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "GIVES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FANSTASTIC7K",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
     }
   ]
 }
