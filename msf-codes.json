@@ -1,10 +1,37 @@
 {
-  "last_updated": "2026-10-25 03:22:53 UTC",
+  "last_updated": "2026-10-25 15:36:59 UTC",
   "total_active": 17,
   "total_rare": 16,
   "codes": [
     {
-      "code": "CHAMPIONSRISING",
+      "code": "COUNTCHAMPSEPT",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "CCENVOY",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "ANEWCCCHAMPION",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "1STCOUNTCHAMPS",
       "reward": "Content Creator Exclusive Reward",
       "status": "Rare / Exclusive",
       "badge": "rare",
@@ -22,7 +49,43 @@
       "score": 125
     },
     {
-      "code": "ANEWCCCHAMPION",
+      "code": "MSFENVOYSZKG",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "5CCHALLENGE",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "7KCHAMPS",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "ACCOUNTS",
+      "reward": "Content Creator Exclusive Reward",
+      "status": "Rare / Exclusive",
+      "badge": "rare",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 125
+    },
+    {
+      "code": "THECHAMPIONCC",
       "reward": "Content Creator Exclusive Reward",
       "status": "Rare / Exclusive",
       "badge": "rare",
@@ -49,7 +112,7 @@
       "score": 125
     },
     {
-      "code": "THECHAMPIONCC",
+      "code": "OCCASIONS",
       "reward": "Content Creator Exclusive Reward",
       "status": "Rare / Exclusive",
       "badge": "rare",
@@ -58,34 +121,7 @@
       "score": 125
     },
     {
-      "code": "CHALLENGE6CC",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 125
-    },
-    {
-      "code": "5CCHALLENGE",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 125
-    },
-    {
-      "code": "ACCOUNTS",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 125
-    },
-    {
-      "code": "7KCHAMPS",
+      "code": "CHAMPIONSRISING",
       "reward": "Content Creator Exclusive Reward",
       "status": "Rare / Exclusive",
       "badge": "rare",
@@ -103,7 +139,7 @@
       "score": 125
     },
     {
-      "code": "OCCASIONS",
+      "code": "CHALLENGE6CC",
       "reward": "Content Creator Exclusive Reward",
       "status": "Rare / Exclusive",
       "badge": "rare",
@@ -112,43 +148,97 @@
       "score": 125
     },
     {
-      "code": "CCENVOY",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
+      "code": "MSFMEMORIES",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
       "date": "Synced: Oct 2026",
-      "score": 125
+      "score": 75
     },
     {
-      "code": "1STCOUNTCHAMPS",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
+      "code": "CHAPTER2ISHERE",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
       "date": "Synced: Oct 2026",
-      "score": 125
+      "score": 75
     },
     {
-      "code": "COUNTCHAMPSEPT",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
+      "code": "HAPPY5C32",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
       "date": "Synced: Oct 2026",
-      "score": 125
+      "score": 75
     },
     {
-      "code": "MSFENVOYSZKG",
-      "reward": "Content Creator Exclusive Reward",
-      "status": "Rare / Exclusive",
-      "badge": "rare",
+      "code": "FANSTASTIC7K",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
       "source": "Live Community Scraper",
       "date": "Synced: Oct 2026",
-      "score": 125
+      "score": 75
     },
     {
       "code": "MSF7YEARSSTRONG",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "WELCOMEBACKF4",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "THUNDER5CWIN",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "3KXPBOOST",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "FIRST5C2025",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "POOLPARTY1",
+      "reward": "Verified Community Reward Drop",
+      "status": "Active",
+      "badge": "active",
+      "source": "Live Community Scraper",
+      "date": "Synced: Oct 2026",
+      "score": 75
+    },
+    {
+      "code": "MSFDADSDAY",
       "reward": "Verified Community Reward Drop",
       "status": "Active",
       "badge": "active",
@@ -175,52 +265,7 @@
       "score": 75
     },
     {
-      "code": "WELCOMEBACKF4",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "FIRST5C2025",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "MSFMEMORIES",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "FANSTASTIC7K",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "POOLPARTY1",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "THUNDER5CWIN",
+      "code": "LETSGO5C",
       "reward": "Verified Community Reward Drop",
       "status": "Active",
       "badge": "active",
@@ -238,25 +283,7 @@
       "score": 75
     },
     {
-      "code": "3KXPBOOST",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "CHAPTER2ISHERE",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "MSFDADSDAY",
+      "code": "COUNTTO7K",
       "reward": "Verified Community Reward Drop",
       "status": "Active",
       "badge": "active",
@@ -266,33 +293,6 @@
     },
     {
       "code": "MSFVISION2026",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "LETSGO5C",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "HAPPY5C32",
-      "reward": "Verified Community Reward Drop",
-      "status": "Active",
-      "badge": "active",
-      "source": "Live Community Scraper",
-      "date": "Synced: Oct 2026",
-      "score": 75
-    },
-    {
-      "code": "COUNTTO7K",
       "reward": "Verified Community Reward Drop",
       "status": "Active",
       "badge": "active",
